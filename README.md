@@ -39,6 +39,4 @@ This command-line Python tool allows you to query **PubMed** for scientific arti
 poetry run get-papers-list "cancer immunotherapy" -f results.csv --debug
 ```
 
----
 
-Let me know if you want a markdown badge (like "Built with Python", "MIT License", etc.) or a contributing section added.
