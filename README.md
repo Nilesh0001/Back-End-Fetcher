@@ -1,7 +1,3 @@
-Here's a clean and professional **paraphrased version** of your GitHub `README.md` section, suitable for public display:
-
----
-
 # 🧬 PubMed Pharma Paper Finder
 
 ## 📖 Overview
