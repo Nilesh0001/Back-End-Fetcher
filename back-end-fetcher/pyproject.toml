@@ -1,9 +1,9 @@
-[tool.poetry]
+  [tool.poetry]
 name = "get-papers-list"
 version = "0.1.0"
 description = "CLI tool to fetch PubMed papers with pharma/biotech affiliations"
 authors = ["Your Name <you@example.com>"]
-packages = [{ include = "get-paper-list", from = "src" }]
+packages = [{ include = "get_paper_list", from = "src" }]
 
 [tool.poetry.dependencies]
 python = "^3.10"
