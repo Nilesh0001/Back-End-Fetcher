@@ -36,7 +36,8 @@ This command-line Python tool allows you to query **PubMed** for scientific arti
 ### ▶ Example Usage
 
 ```bash
-poetry run get-papers-list "cancer immunotherapy" -f results.csv --debug
+python -m get_paper_list.fetcher "cancer immunotherapy" -f results.csv --debug
+
 ```
 
 
